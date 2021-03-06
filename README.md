@@ -4,7 +4,7 @@ The purpose of this project is to visualize earthquake data using data collected
 
 The USGS provides earthquake data in different formats which is updated every 5 minutes. 
 
-A data set was selected to visualize from the [USGS GeoJSON Feed] ("https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page. 
+A data set was selected to visualize from the [USGS GeoJSON Feed] ("https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php") page. 
 
 This projects analyzes and visualizes significant earthquakes in the past seven days.
 
