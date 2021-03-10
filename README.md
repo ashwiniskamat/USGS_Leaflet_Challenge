@@ -14,4 +14,5 @@ A map which plots earthquakes from the data set based on their longitude and lat
 - a legend that provides context
 
 Dashboard Screenshot:
-![image](https://user-images.githubusercontent.com/73679489/110583804-df9f3400-8133-11eb-9276-28c697f66514.png)
+![image](https://user-images.githubusercontent.com/73679489/110584113-563c3180-8134-11eb-9ad8-22a7405c1b3c.png)
+
