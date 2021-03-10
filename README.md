@@ -12,3 +12,6 @@ A map which plots earthquakes from the data set based on their longitude and lat
 - data markers that reflect the magnitude of the earthquake (size and depth) by color
 - popups that provide additional information about a quake when a given marker is clicked
 - a legend that provides context
+
+Dashboard Screenshot:
+![image](https://user-images.githubusercontent.com/73679489/110583804-df9f3400-8133-11eb-9276-28c697f66514.png)
