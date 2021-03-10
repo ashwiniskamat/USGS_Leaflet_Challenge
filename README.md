@@ -8,7 +8,8 @@ A data set was selected to visualize from the [USGS GeoJSON Feed Page](https://e
 
 This projects analyzes and visualizes significant earthquakes in the past seven days.
 
-A map which plots earthquakes from the data set based on their longitude and latitude was created using Leaflet. It includes...
+A map which plots earthquakes from the data set based on their longitude and latitude was created using Leaflet. 
+The map includes...
 - data markers that reflect the magnitude of the earthquake (size and depth) by color
 - popups that provide additional information about a quake when a given marker is clicked
 - a legend that provides context
