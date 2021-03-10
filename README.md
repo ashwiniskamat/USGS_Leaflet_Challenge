@@ -6,7 +6,7 @@ The USGS provides earthquake data in different formats which is updated every 5 
 
 A data set was selected to visualize from the [USGS GeoJSON Feed Page](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 
-This projects analyzes and visualizes significant earthquakes in the past seven days.
+This projects analyzes and visualizes the most significant earthquakes in the past month.
 
 A map which plots earthquakes from the data set based on their longitude and latitude was created using Leaflet. 
 The map includes...
